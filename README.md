@@ -12,3 +12,6 @@ I am Andrej Friesen.
   - Home Automation 🤖
   - Nerd Stuff🤓
 
+---
+
+[![Subscribe to my Blog](https://img.shields.io/badge/Subscribe%20to%20my%20Blog%20-subscribe-red.svg)](https://www.ajfriesen.com/#/portal/signup)
