@@ -11,7 +11,6 @@
 - 👨‍💻 I’m currently working at [@gridscale](https://gridscale.io/) as a Software and Systems engineer.
 - 📖 I am writing a book about self-hosting right now: [Self-Hosted Book website (WIP)](https://ajfriesen.github.io/self-hosted-book-website/)
 - ✍️ I write at my blog [ajfriesen.com](https://www.ajfriesen.com) about Linux 🐧, Self-Hosting 🧑‍💻, Nerd Stuff 🤓
-- 📑 You can check my [Wiki/Digital Garden](https://wiki.ajfriesen.com) for some of my notes and links I gathered over time.
 
 #
 
