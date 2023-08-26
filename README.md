@@ -18,6 +18,9 @@
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Get%20my%20Blog%20Post%20in%20Your%20Inbox-073763?style=for-the-badge&logo=mail&logoColor=white"/>](https://www.ajfriesen.com/#/portal)
 
+
+<div style="min-height: 58px;max-width: 440px;margin: 0 auto;width: 100%"><script src="https://cdn.jsdelivr.net/ghost/signup-form@~0.1/umd/signup-form.min.js" data-label-1="github" data-button-color="#073763" data-button-text-color="#FFFFFF" data-site="https://www.ajfriesen.com" async></script></div>
+
 #
 
 ### 📊 Unnecessary stats for nerds
