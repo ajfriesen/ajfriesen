@@ -9,19 +9,8 @@
 
 
 - 👨‍💻 I’m currently working at [@gridscale](https://gridscale.io/) as a Software and Systems engineer.
-- 📖 I am writing a book about self-hosting right now: [Self-Hosted Book website (WIP)](https://ajfriesen.github.io/self-hosted-book-website/)
+- 📖 I am writing a book about self-hosting right now: [Self-Hosted Book website (WIP)](https://www.ajfriesen.com/self-hosted-book)
 - ✍️ I write at my blog [ajfriesen.com](https://www.ajfriesen.com) about Linux 🐧, Self-Hosting 🧑‍💻, Nerd Stuff 🤓
-
-#
-
-### 🙋‍♀️ 🙋‍♂️ 🙋 Looking for beta readers
-
-For my self-hosted book I will need some beta readers. If you are interested in reading the book and giving me feedback, please contact me via
-
-- [Email](mailto:andre.friesen@gmail.com)
-- [Twitter](https://twitter.com/mr_ajfriesen)
-- [Mastodon](https://home.social/@ajfriesen)
-
 
 #
 
@@ -32,6 +21,7 @@ For my self-hosted book I will need some beta readers. If you are interested in 
 #
 
 ### 📊 Unnecessary stats for nerds
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajfriesen&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajfriesen&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajfriesen&theme=radical)
