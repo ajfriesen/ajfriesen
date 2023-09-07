@@ -13,7 +13,7 @@
 
 #
 
-### 📧 Get updates and/or support me
+### 📧 Get updates via mail
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Get%20my%20Blog%20Post%20in%20Your%20Inbox-073763?style=for-the-badge&logo=mail&logoColor=white"/>](https://www.ajfriesen.com/#/portal)
 
