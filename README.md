@@ -8,7 +8,7 @@
 [![Mastodon](https://img.shields.io/badge/mastodon-6364ff?style=for-the-badge&logo=Mastodon&logoColor=white)](https://home.social/@ajfriesen)
 
 - 👨‍💻 I’m currently working at [@gridscale](https://gridscale.io/) as a Software and Systems engineer.
-- 📖 I am writing a book about self-hosting right now: [Self-Hosted Book website (WIP)]([https://www.ajfriesen.com/self-hosted-book](https://leanpub.com/pragmatic-self-hosting))
+- 📖 I am writing a book about self-hosting right now: [Self-Hosted Book website (WIP)](https://leanpub.com/pragmatic-self-hosting)
 - ✍️ I write at my blog [ajfriesen.com](https://www.ajfriesen.com) about Linux 🐧, Self-Hosting 🧑‍💻, Nerd Stuff 🤓
 
 #
