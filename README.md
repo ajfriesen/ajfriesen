@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mr_ajfriesen)
 [![Mastodon](https://img.shields.io/badge/mastodon-6364ff?style=for-the-badge&logo=Mastodon&logoColor=white)](https://home.social/@ajfriesen)
 
-- 👨‍💻 I’m currently working at [@gridscale](https://gridscale.io/) as a Software and Systems engineer.
+- 👨‍💻 I’m currently working at [@gridscale](https://gridscale.io/) as a ~~Software and Systems Engineer~~ Team Lead in the team that build K8s, databases, filesystems, etc as a service.
 - 📖 I am writing a book about self-hosting right now: [Self-Hosted Book website (WIP)](https://leanpub.com/pragmatic-self-hosting)
 - ✍️ I write at my blog [ajfriesen.com](https://www.ajfriesen.com) about Linux 🐧, Self-Hosting 🧑‍💻, Nerd Stuff 🤓
 
