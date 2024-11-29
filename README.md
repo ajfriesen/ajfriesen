@@ -1,5 +1,9 @@
 ### Hi there 👋, I'm Andrej AKA ajfriesen
 
+> [!NOTE]  
+> The [Crowdsupply campaign for PokyPow launch site](https://www.crowdsupply.com/ajfriesen/pokypow) is live!
+> Subscribe and make it real!
+
 **Nerd. Blogger. Self-taught Software and Systems Engineer. Wanna be electronics tinkerer. Wanna be writer. Linux and Self-Hosting enthusiast.**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrej-friesen)
@@ -8,8 +12,8 @@
 [![Mastodon](https://img.shields.io/badge/mastodon-6364ff?style=for-the-badge&logo=Mastodon&logoColor=white)](https://home.social/@ajfriesen)
 
 - 👨‍💻 I’m currently working at [@gridscale](https://gridscale.io/) as a ~~Software and Systems Engineer~~ Team Lead in the team that build K8s, databases, filesystems, etc as a service.
-- 📖 I am writing a book about self-hosting right now: [Self-Hosted Book website (WIP)](https://leanpub.com/pragmatic-self-hosting)
 - ✍️ I write at my blog [ajfriesen.com](https://www.ajfriesen.com) about Linux 🐧, Self-Hosting 🧑‍💻, Nerd Stuff 🤓
+- ⚙️ Building [PokyPow](https://www.crowdsupply.com/ajfriesen/pokypow): a hardware product to turn on,off and monitor your PC via Home Assistant
 
 #
 
